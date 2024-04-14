@@ -1,0 +1,11 @@
+C:\Users\Andrei\source\repos\C_sharp\My_experiments-trainings\TicTacToeGUI\TicTacToeGUI\bin\Release\TicTacToeGUI.exe.config
+C:\Users\Andrei\source\repos\C_sharp\My_experiments-trainings\TicTacToeGUI\TicTacToeGUI\bin\Release\TicTacToeGUI.exe
+C:\Users\Andrei\source\repos\C_sharp\My_experiments-trainings\TicTacToeGUI\TicTacToeGUI\bin\Release\TicTacToeGUI.pdb
+C:\Users\Andrei\source\repos\C_sharp\My_experiments-trainings\TicTacToeGUI\TicTacToeGUI\obj\Release\TicTacToeGUI.csproj.AssemblyReference.cache
+C:\Users\Andrei\source\repos\C_sharp\My_experiments-trainings\TicTacToeGUI\TicTacToeGUI\obj\Release\TicTacToeGUI.AboutBox.resources
+C:\Users\Andrei\source\repos\C_sharp\My_experiments-trainings\TicTacToeGUI\TicTacToeGUI\obj\Release\TicTacToeGUI.GameForm.resources
+C:\Users\Andrei\source\repos\C_sharp\My_experiments-trainings\TicTacToeGUI\TicTacToeGUI\obj\Release\TicTacToeGUI.Properties.Resources.resources
+C:\Users\Andrei\source\repos\C_sharp\My_experiments-trainings\TicTacToeGUI\TicTacToeGUI\obj\Release\TicTacToeGUI.csproj.GenerateResource.cache
+C:\Users\Andrei\source\repos\C_sharp\My_experiments-trainings\TicTacToeGUI\TicTacToeGUI\obj\Release\TicTacToeGUI.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\source\repos\C_sharp\My_experiments-trainings\TicTacToeGUI\TicTacToeGUI\obj\Release\TicTacToeGUI.exe
+C:\Users\Andrei\source\repos\C_sharp\My_experiments-trainings\TicTacToeGUI\TicTacToeGUI\obj\Release\TicTacToeGUI.pdb
