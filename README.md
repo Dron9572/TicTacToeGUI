@@ -1,6 +1,6 @@
 # TicTacToeGUI
 
-# Project for Computer Graphics and Multimedia exam
+# The project for the exam in the subject "Computer Graphics and Multimedia"
 
 Tic Tac Toe is a classic pencil and paper game transformed into a digital GUI game. The game is played on a 3x3 grid, where two players take turns marking either an "X" or an "O" in the empty squares. The goal is to be the first to form a horizontal, vertical or diagonal line with your three symbols. 
 
