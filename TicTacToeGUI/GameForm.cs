@@ -73,6 +73,7 @@ namespace TicTacToeGUI
             gameEnded = false;
             winDirection = null;
             InitializeBoard();
+            button1.Text = "RESTART GAME";
         }
 
         private void newGame_Click(object sender, EventArgs e)
@@ -232,6 +233,7 @@ namespace TicTacToeGUI
                     Thread.Sleep(200);
                     MessageBox.Show(currentPlayer + " wins!", "Game Over", MessageBoxButtons.OK);
                     gameEnded = true;
+                    button1.Text = "START A NEW GAME";
                 }
                 else if (IsBoardFull())
                 {
@@ -239,6 +241,7 @@ namespace TicTacToeGUI
                     Thread.Sleep(200);
                     MessageBox.Show("Draw!", "Game Over", MessageBoxButtons.OK);
                     gameEnded = true;
+                    button1.Text = "START A NEW GAME";
                 }
                 else
                 {
