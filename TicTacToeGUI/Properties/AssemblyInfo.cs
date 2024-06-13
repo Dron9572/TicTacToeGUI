@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Tic Tac Toe GUI")]
-[assembly: AssemblyCopyright("Copyright © Andrei Sitnikov, 2024")]
+[assembly: AssemblyCopyright("Copyright © 2024 Andrei Sitnikov")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
